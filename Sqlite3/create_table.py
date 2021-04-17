@@ -9,8 +9,6 @@ cursor.execute("""CREATE TABLE customers(
     email text
 )
 """)
-
 conn.commit()
-
 #close
 conn.close()
