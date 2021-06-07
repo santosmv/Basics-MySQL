@@ -10,10 +10,12 @@ cursor.execute("SELECT * FROM customers WHERE email LIKE '%.com'")
 cursor.execute("SELECT rowid, * FROM customers where email like '%.com' and first_name like 'S%' and last_name like 'B%'")
 cursor.execute("select rowid, * from customers where rowid > 8 or last_name != 'Giunti'")
 #show the elements
-items = cursor.fetchall()
+items = cursor.fetchall()[0]
 
-for item in items:
-    print(item)
+print(items)
+
+#for item in items:
+#    print(item)
 
 conn.commit()
 #close
