@@ -1,3 +1,3 @@
-# Basics-SQL
+# Databases
 
-This repository register simple experiments and activities with SQL and it will be used as a future reference.
+This repository register simple experiments and activities with databases. The intension is to use it as a future own reference.
