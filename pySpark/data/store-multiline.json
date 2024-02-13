@@ -1,0 +1,142 @@
+[
+    {
+      "Store": 1,
+      "Date": "05-02-2010",
+      "Weekly_Sales": 1643690.9,
+      "Holiday_Flag": 0,
+      "Temperature": 42.31,
+      "Fuel_Price": 2.572,
+      "CPI": 211.0963582,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "12-02-2010",
+      "Weekly_Sales": 1641957.44,
+      "Holiday_Flag": 1,
+      "Temperature": 38.51,
+      "Fuel_Price": 2.548,
+      "CPI": 211.2421698,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "19-02-2010",
+      "Weekly_Sales": 1611968.17,
+      "Holiday_Flag": 0,
+      "Temperature": 39.93,
+      "Fuel_Price": 2.514,
+      "CPI": 211.2891429,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "26-02-2010",
+      "Weekly_Sales": 1409727.59,
+      "Holiday_Flag": 0,
+      "Temperature": 46.63,
+      "Fuel_Price": 2.561,
+      "CPI": 211.3196429,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "05-03-2010",
+      "Weekly_Sales": 1554806.68,
+      "Holiday_Flag": 0,
+      "Temperature": 46.5,
+      "Fuel_Price": 2.625,
+      "CPI": 211.3501429,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "12-03-2010",
+      "Weekly_Sales": 1439541.59,
+      "Holiday_Flag": 0,
+      "Temperature": 57.79,
+      "Fuel_Price": 2.667,
+      "CPI": 211.3806429,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "19-03-2010",
+      "Weekly_Sales": 1472515.79,
+      "Holiday_Flag": 0,
+      "Temperature": 54.58,
+      "Fuel_Price": 2.72,
+      "CPI": 211.215635,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "26-03-2010",
+      "Weekly_Sales": 1404429.92,
+      "Holiday_Flag": 0,
+      "Temperature": 51.45,
+      "Fuel_Price": 2.732,
+      "CPI": 211.0180424,
+      "Unemployment": 8.106
+    },
+    {
+      "Store": 1,
+      "Date": "02-04-2010",
+      "Weekly_Sales": 1594968.28,
+      "Holiday_Flag": 0,
+      "Temperature": 62.27,
+      "Fuel_Price": 2.719,
+      "CPI": 210.8204499,
+      "Unemployment": 7.808
+    },
+    {
+      "Store": 1,
+      "Date": "09-04-2010",
+      "Weekly_Sales": 1545418.53,
+      "Holiday_Flag": 0,
+      "Temperature": 65.86,
+      "Fuel_Price": 2.77,
+      "CPI": 210.6228574,
+      "Unemployment": 7.808
+    },
+    {
+      "Store": 1,
+      "Date": "16-04-2010",
+      "Weekly_Sales": 1466058.28,
+      "Holiday_Flag": 0,
+      "Temperature": 66.32,
+      "Fuel_Price": 2.808,
+      "CPI": 210.4887,
+      "Unemployment": 7.808
+    },
+    {
+      "Store": 1,
+      "Date": "23-04-2010",
+      "Weekly_Sales": 1391256.12,
+      "Holiday_Flag": 0,
+      "Temperature": 64.84,
+      "Fuel_Price": 2.795,
+      "CPI": 210.4391228,
+      "Unemployment": 7.808
+    },
+    {
+      "Store": 1,
+      "Date": "30-04-2010",
+      "Weekly_Sales": 1425100.71,
+      "Holiday_Flag": 0,
+      "Temperature": 67.41,
+      "Fuel_Price": 2.78,
+      "CPI": 210.3895456,
+      "Unemployment": 7.808
+    },
+    {
+      "Store": 1,
+      "Date": "07-05-2010",
+      "Weekly_Sales": 1603955.12,
+      "Holiday_Flag": 0,
+      "Temperature": 72.55,
+      "Fuel_Price": 2.835,
+      "CPI": 210.3399684,
+      "Unemployment": 7.808
+    }
+  ]
